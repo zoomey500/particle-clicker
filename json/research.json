@@ -107,12 +107,12 @@
     "key": "research-higgs",
     "name": "Higgs boson",
     "description": "It only took us 48 years to find this one!",
-    "cost_increase": 1.2,
+    "cost_increase": 0,
     "image": "assets/icons/png/H.png",
     "info": "html/H.html",
     "state": {
-      "reputation": 9e5,
-      "cost": 5e9,
+      "reputation": 1000000000000,
+      "cost": 1,
       "info_levels": [ 1, 5, 10, 15, 20 ]
     }
   },
